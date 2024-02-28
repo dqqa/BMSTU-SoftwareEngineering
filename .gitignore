@@ -1,5 +1,1 @@
-*.exe
 *.o
-*.gcno
-*.gcda
-.DS_Store
